@@ -187,10 +187,10 @@ MonoBehaviour:
   targetTransform: {fileID: 0}
   levels:
   - {fileID: 114381954249791234, guid: fca775bd47191244ebae435ba74bd920, type: 3}
-  towerName: Plasma Lance
+  towerName: Supermarket
   dimensions:
-    x: 2
-    y: 2
+    x: 3
+    y: 3
   enemyLayerMask:
     serializedVersion: 2
     m_Bits: 4294967295

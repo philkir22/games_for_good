@@ -107,7 +107,7 @@ MonoBehaviour:
   targetTransform: {fileID: 0}
   levels:
   - {fileID: 114779466188146336, guid: 33e382423bdbfb741bb8b38c2a1f1e1a, type: 3}
-  towerName: Assault Cannon
+  towerName: Grocery Store
   dimensions:
     x: 2
     y: 2

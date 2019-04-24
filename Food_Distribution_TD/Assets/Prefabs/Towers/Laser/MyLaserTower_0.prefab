@@ -23567,6 +23567,7 @@ GameObject:
   - component: {fileID: 4655722824605558}
   - component: {fileID: 114706318332480936}
   - component: {fileID: 114238670479426328}
+  - component: {fileID: 8239358276387139084}
   m_Layer: 10
   m_Name: Affector
   m_TagString: Untagged
@@ -23623,6 +23624,25 @@ MonoBehaviour:
   randomAudioSource: {fileID: 114131546550358810}
   towerTargetter: {fileID: 114267794928567308}
   radiusEffectColor: {r: 0, g: 1, b: 1, a: 0.09803922}
+--- !u!114 &8239358276387139084
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1710471860390916}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: edd941a0afc941b080f06d3bf45aa570, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  description: 
+  currencyGainer:
+    constantCurrencyAddition: 0
+    constantCurrencyGainRate: 0
+  descriptionFormat: <b>Produces</b> {1} at {2} units per second
+  audioSource: {fileID: 0}
+  currencyParticleSystem: {fileID: 0}
 --- !u!1 &1782034351462330
 GameObject:
   m_ObjectHideFlags: 0

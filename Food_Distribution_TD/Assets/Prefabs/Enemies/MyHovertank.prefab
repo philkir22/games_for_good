@@ -814,6 +814,18 @@ PrefabInstance:
       propertyPath: m_LocalScale.z
       value: 2.664605
       objectReference: {fileID: 0}
+    - target: {fileID: 9500000, guid: 7fe87b7ab58bb9046acaba345a7e97da, type: 3}
+      propertyPath: m_ApplyRootMotion
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9500000, guid: 7fe87b7ab58bb9046acaba345a7e97da, type: 3}
+      propertyPath: m_UpdateMode
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9500000, guid: 7fe87b7ab58bb9046acaba345a7e97da, type: 3}
+      propertyPath: m_CullingMode
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7fe87b7ab58bb9046acaba345a7e97da, type: 3}
 --- !u!4 &53812526891167269 stripped

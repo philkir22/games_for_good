@@ -44,10 +44,10 @@ MonoBehaviour:
     y: 30
     width: 1920
     height: 947
-  m_MinSize: {x: 579, y: 474}
-  m_MaxSize: {x: 14002, y: 14048}
+  m_MinSize: {x: 581, y: 474}
+  m_MaxSize: {x: 14004, y: 14048}
   vertical: 0
-  controlID: 79
+  controlID: 120
 --- !u!114 &3
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -67,8 +67,8 @@ MonoBehaviour:
     y: 0
     width: 570
     height: 947
-  m_MinSize: {x: 275, y: 50}
-  m_MaxSize: {x: 4000, y: 4000}
+  m_MinSize: {x: 277, y: 74}
+  m_MaxSize: {x: 4002, y: 4024}
   m_ActualView: {fileID: 16}
   m_Panes:
   - {fileID: 16}
@@ -219,7 +219,7 @@ MonoBehaviour:
   m_MinSize: {x: 304, y: 474}
   m_MaxSize: {x: 10002, y: 14048}
   vertical: 1
-  controlID: 120
+  controlID: 121
 --- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -244,7 +244,7 @@ MonoBehaviour:
   m_MinSize: {x: 304, y: 200}
   m_MaxSize: {x: 8004, y: 4024}
   vertical: 0
-  controlID: 121
+  controlID: 122
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -332,9 +332,9 @@ MonoBehaviour:
   m_isRotationLocked: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: -2.6064396, y: 2.3808632, z: -15.107438}
+    m_Target: {x: -7.04, y: 26.02, z: -23.75}
     speed: 2
-    m_Value: {x: -2.6064396, y: 2.3808632, z: -15.107438}
+    m_Value: {x: -7.04, y: 26.02, z: -23.75}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -362,13 +362,13 @@ MonoBehaviour:
       speed: 2
       m_Value: 0
   m_Rotation:
-    m_Target: {x: -0.36385658, y: 0.41629848, z: -0.18651906, w: -0.8121051}
+    m_Target: {x: -0.45870438, y: 0.28554764, z: -0.15849772, w: -0.8263966}
     speed: 2
-    m_Value: {x: -0.36385658, y: 0.41629848, z: -0.18651906, w: -0.8121051}
+    m_Value: {x: -0.45870438, y: 0.28554764, z: -0.15849772, w: -0.8263966}
   m_Size:
-    m_Target: 36.734745
+    m_Target: 22
     speed: 2
-    m_Value: 36.734745
+    m_Value: 22
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -444,20 +444,20 @@ MonoBehaviour:
     m_ShowAllHits: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Data/TowerLibrary
+    - Assets/Data/Tower
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/Data/TowerLibrary
+  - Assets/Data/Tower
   m_LastFoldersGridSize: -1
   m_LastProjectPath: C:\Users\Phil\Documents\Honors Thesis\TD Game\games_for_good\Food_Distribution_TD
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 78}
-    m_SelectedIDs: 86870000
-    m_LastClickedID: 34694
-    m_ExpandedIDs: 000000007a870000a4870000fc870000328800003a8800005a880000c8880000088900003e8900008889000092890000a6890000c8890000f6890000248a0000928a0000ca8a00002c97000000ca9a3b
+    scrollPos: {x: 0, y: 262}
+    m_SelectedIDs: 5c8d0000
+    m_LastClickedID: 36188
+    m_ExpandedIDs: 000000001a8a0000288a0000448a00009c8a0000d28a0000da8a0000fa8a00006a8b00009a8b0000aa8b0000be8b0000d28b0000e48b0000e88b0000308c00003a8c00004e8c0000728c0000a08c00003c8d0000508d0000748d000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -485,7 +485,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 000000007a870000a4870000c4870000fc870000328800003a8800005a880000c8880000088900003e8900008889000092890000a6890000c8890000f6890000248a0000928a0000ca8a0000
+    m_ExpandedIDs: 000000001a8a0000448a00009c8a0000d28a0000da8a0000fa8a00006a8b0000aa8b0000d28b0000e48b0000308c00003a8c00004e8c0000728c0000a08c0000ce8c00003c8d0000748d0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -513,7 +513,7 @@ MonoBehaviour:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
     m_HadKeyboardFocusLastEvent: 1
-    m_ExpandedInstanceIDs: c62300002a0e0000
+    m_ExpandedInstanceIDs: c62300002a0e000000400000983b0000fc3a0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -604,20 +604,20 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 9a2cffff
-      m_LastClickedID: -54118
-      m_ExpandedIDs: 242effff262effff2434ffffe29800002a990000e69900006e9a00007c9a0000
+      m_SelectedIDs: 
+      m_LastClickedID: 0
+      m_ExpandedIDs: 9cc4fcff1e3dfdff328afdff8a8efdfffe92fdffd2a1fdff922fffffe62ffffff22fffff7e32ffff828f00009e90000048920000fad0000024d1000072d10000ecd10000d0d20000fed200000cd3000014d30000d0ed0000d4ef0000eaef0000de090100ee0a0100b20b0100480c01005c0d0100
       m_RenameOverlay:
         m_UserAcceptedRename: 0
-        m_Name: BuildInfoMask
-        m_OriginalName: BuildInfoMask
+        m_Name: Turret_MachineGun_L01
+        m_OriginalName: Turret_MachineGun_L01
         m_EditFieldRect:
           serializedVersion: 2
           x: 0
           y: 0
           width: 0
           height: 0
-        m_UserData: -53742
+        m_UserData: 79286
         m_IsWaitingForDelay: 0
         m_IsRenaming: 0
         m_OriginalEventType: 0
@@ -664,7 +664,7 @@ MonoBehaviour:
   m_Position:
     m_Target: {x: 0, y: 1, z: 0}
     speed: 2
-    m_Value: {x: 0, y: 0.24000001, z: 0}
+    m_Value: {x: 0, y: 0, z: 0}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -698,7 +698,7 @@ MonoBehaviour:
   m_Size:
     m_Target: 9.834919
     speed: 2
-    m_Value: 4.2804704
+    m_Value: 72.6
   m_Ortho:
     m_Target: 0
     speed: 2

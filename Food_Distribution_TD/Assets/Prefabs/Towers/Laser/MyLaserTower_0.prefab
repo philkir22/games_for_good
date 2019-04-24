@@ -4692,7 +4692,7 @@ MonoBehaviour:
     type: 3}
   buildEffectPrefab: {fileID: 1395313577031670, guid: c559c1920b5d04e6d83aa4464fba5c68,
     type: 3}
-  levelData: {fileID: 11400000, guid: 1306a5e8c7496423787105957ebda899, type: 2}
+  levelData: {fileID: 11400000, guid: 1059902554477204b83e47d724bdd008, type: 2}
 --- !u!1 &1213524718981924
 GameObject:
   m_ObjectHideFlags: 0

@@ -49,7 +49,7 @@ GameObject:
   - component: {fileID: 114010905534646474}
   - component: {fileID: 114936617866548888}
   m_Layer: 10
-  m_Name: MyMachineGunTower
+  m_Name: SuperMarket
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -106,11 +106,11 @@ MonoBehaviour:
         type: 2}
   targetTransform: {fileID: 0}
   levels:
-  - {fileID: 114779466188146336, guid: 33e382423bdbfb741bb8b38c2a1f1e1a, type: 3}
-  towerName: Grocery Store
+  - {fileID: 114779466188146336, guid: 837bfcd526976f846b1fe570f163fd68, type: 3}
+  towerName: Supermarket
   dimensions:
-    x: 2
-    y: 2
+    x: 3
+    y: 3
   enemyLayerMask:
     serializedVersion: 2
     m_Bits: 4294967295

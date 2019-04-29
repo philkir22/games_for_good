@@ -14,8 +14,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   description: Expensive and slower to distribute, but highly nutritious.
   upgradeDescription: 
-  cost: 20
-  sell: 10
+  cost: 12
+  sell: 6
   maxHealth: 5
   startingHealth: 5
   icon: {fileID: 21300000, guid: 8efcce7cffad5fe4baef9776e46833ab, type: 3}

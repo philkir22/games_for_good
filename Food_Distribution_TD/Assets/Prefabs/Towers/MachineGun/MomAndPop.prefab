@@ -107,7 +107,7 @@ MonoBehaviour:
   targetTransform: {fileID: 0}
   levels:
   - {fileID: 114779466188146336, guid: 8ddeceb7ac780cd4992c7e6ee4a592b2, type: 3}
-  towerName: Grocery Store
+  towerName: Mom & Pop Store
   dimensions:
     x: 10
     y: 10

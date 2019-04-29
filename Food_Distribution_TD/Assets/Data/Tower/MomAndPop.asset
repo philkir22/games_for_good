@@ -14,8 +14,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   description: Very popular and nutritious, but difficult to place.
   upgradeDescription: 
-  cost: 10
-  sell: 5
+  cost: 6
+  sell: 3
   maxHealth: 10
   startingHealth: 10
   icon: {fileID: 21300000, guid: cff0b15d9e7a09f4d9ced9178414432e, type: 3}

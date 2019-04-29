@@ -14,8 +14,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   description: Supermarkets are effective, but large and expensive.
   upgradeDescription: 
-  cost: 15
-  sell: 7
+  cost: 10
+  sell: 5
   maxHealth: 5
   startingHealth: 5
-  icon: {fileID: 21300000, guid: 53652022b1d444a5c9e9630488e44e13, type: 3}
+  icon: {fileID: 21300000, guid: f513053edfd508840a63a89e67f87afc, type: 3}

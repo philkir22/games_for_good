@@ -56240,7 +56240,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0.5}
   m_AnchorMax: {x: 0, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: 0.0000076293945}
+  m_AnchoredPosition: {x: -0.000061035156, y: 0.0000076293945}
   m_SizeDelta: {x: 0, y: 272}
   m_Pivot: {x: 0, y: 0.5}
 --- !u!114 &1346799929
@@ -90759,8 +90759,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "This is a free template project for making Tower Defense games in Unity.
-    \nClick here to learn more."
+  m_Text: Challenge yourself to build a food system that can suit everyone's needs!
 --- !u!222 &2128714767
 CanvasRenderer:
   m_ObjectHideFlags: 0

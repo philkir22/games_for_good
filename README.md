@@ -32,4 +32,6 @@ The purpose of this project was to design and create a game that would attempt t
 - You fail the level,and thus your food system fails, if ten people leave the system without being properly fed, indicated by them reaching the red hexagon at the end of the level.
 - People will move throughout the level somewhat randomly, so be prepared for them to not follow the level straight to the end.
 - The fewer people that leave the system without being properly fed, the better your ranking at the end will be.
-- Once you have completed Level 1, you can click "Next Level" to try the harder Level 2.
+- Once you have completed Level 1, you can click "Next Level" to try the harder Level 2, click "Main Menu" to return to the main menu, or click "Restart" to restart the level.
+- Clicking the pause button will also allow you to restart the level or return to the main menu.
+- You can quit the game from the main menu.

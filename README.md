@@ -35,3 +35,13 @@ The purpose of this project was to design and create a game that would attempt t
 - Once you have completed Level 1, you can click "Next Level" to try the harder Level 2, click "Main Menu" to return to the main menu, or click "Restart" to restart the level.
 - Clicking the pause button will also allow you to restart the level or return to the main menu.
 - You can quit the game from the main menu.
+
+## How to open in Unity
+- Clone the repository or download a ZIP as explained in "Instructions for Use".
+- Unzip the ZIP file.
+- Open Unity.
+- Click "Open".
+- Navigate to the "games_for_good" folder that was created by unzipping the ZIP file or cloning the repository.
+- Select the "Food_Distribution_TD" folder.
+- Click "Select Folder".
+- Unity will compile the code and then open the project for you to edit.
